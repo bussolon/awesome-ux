@@ -1,10 +1,11 @@
 
 # Persone
 
-Persone che, in Italia, si occupano di UX, architettura dell'informazione, usabilità
+Persone Italiane che si occupano di UX, architettura dell'informazione, usabilità
 
 * [Alberta Soranzo (@albertatrebla)](https://twitter.com/albertatrebla)
 * [Alberto Mucignat (@AlbertoMucignat)](https://twitter.com/AlbertoMucignat) - [Alberto Mucignat](http://www.mucignat.com/blog/)
+* [Alessandra Talamo | LinkedIn](https://www.linkedin.com/in/aletalamo/)
 * [Alessia Rullo (@ruassia)](https://twitter.com/ruassia)
 * [Alessio Ricco (@alessioricco)](https://twitter.com/alessioricco)
 * [Andrea Resmini (@resmini)](https://twitter.com/resmini) - [Andrea Resmini](http://andrearesmini.com/)
@@ -17,6 +18,7 @@ Persone che, in Italia, si occupano di UX, architettura dell'informazione, usabi
 * [Davide 'Folletto' Casali (@Folletto)](https://twitter.com/Folletto) - [Intense Minimalism](https://intenseminimalism.com/)
 * [Debora Bottà (@debora_botta)](https://twitter.com/debora_botta)
 * [Domenico Polimeno (@elmook)](https://twitter.com/elmook)
+* [Emanuele Quintarelli | LinkedIn](https://www.linkedin.com/in/emanuelequintarelli/)
 * [Eugenio Menichella (@EMenichella)](https://twitter.com/EMenichella)
 * [Federico Badaloni (@fedebadaloni)](https://twitter.com/fedebadaloni)
 * [Francesca Marangoni (@framarangoni)](https://twitter.com/framarangoni)
@@ -25,15 +27,19 @@ Persone che, in Italia, si occupano di UX, architettura dell'informazione, usabi
 * [Hoang Huynh (@Aetheros)](https://twitter.com/Aetheros)
 * [Ilaria Mauric (@ilariamauric)](https://twitter.com/ilariamauric) - [Ilaria Mauric](http://www.ilariamauric.it/)
 * [Italo Marconi (@italomarconi)](https://twitter.com/italomarconi) - 
+* [Jacopo Pasquini | LinkedIn](https://www.linkedin.com/in/jacopopasquini/)
 * [Jacopo Romei (@jacoporomei)](https://twitter.com/jacoporomei) - [Jacopo Romei – A generalist specialist](http://jacoporomei.com/)
 * [Leandro Agro (@leeander)](https://twitter.com/leeander) - [Leeander](https://leeander.blog/)
 * [Letizia Bollini (@extrasmallit)](https://twitter.com/extrasmallit) - [Beautiful Interfaces | Letizia Bollini](http://www.lbollini.it/)
 * [Luca Mascaro (@lucamascaro)](https://twitter.com/lucamascaro)
 * [Luca Rosati (@lucarosati)](https://twitter.com/lucarosati) - [Architettura dell’informazione e trovabilità - Luca Rosati](https://www.lucarosati.it/)
 * [Luigina Ciolfi (@luiciolfi)](https://twitter.com/luiciolfi) - [Professor Luigina Ciolfi](https://luiginaciolfi.net/)
+* [Marco Bertoni | LinkedIn](https://www.linkedin.com/in/bertoni/)
+* [Marco Buonvino (@MarcoBuonvino) | Twitter](https://twitter.com/MarcoBuonvino) - [Marco Buonvino - UX designer in Rome](https://www.marcobuonvino.it/)
 * [Marco Calzolari (@marcocalzolari)](https://twitter.com/marcocalzolari) - [MARCO CALZOLARI — Conversation Designer, Agile Coach](https://www.marcocalzolari.com/)
 * [Marco Tagliavacche (@mtderiw)](https://twitter.com/mtderiw)
 * [Maria Cristina Lavazza (@mc_lavazza)](https://twitter.com/mc_lavazza) - [Home - Maria Cristina Lavazza](https://www.mclavazza.it/)
+* [Maria Laura Mele | LinkedIn](https://www.linkedin.com/in/maria-laura-mele/)
 * [Massimo Zancanaro (@MaxZancanaro)](https://twitter.com/MaxZancanaro)
 * [Matteo Balocco (@MatteoBalocco)](https://twitter.com/MatteoBalocco)
 * [Maurizio Boscarol (@dottorboscarol)](https://twitter.com/dottorboscarol) - [Usabile.it](http://usabile.it/)
@@ -45,9 +51,13 @@ Persone che, in Italia, si occupano di UX, architettura dell'informazione, usabi
 * [Raffaele Boiano (@rainwiz)](https://twitter.com/rainwiz) - [rainwiz :.](http://www.rainwiz.com/)
 * [Raffaella Roviglioni (@Raffiro)](https://twitter.com/Raffiro)
 * [Roberto Cobianchi (@intranetlife)](https://twitter.com/intranetlife)
+* [Roberto Bob Falcone (@robertofalcone) | Twitter](https://twitter.com/robertofalcone) - [Homepage · Roberto Falcone](http://www.robertofalcone.it/)
 * [Roberto Scano (@rscano)](https://twitter.com/rscano) - [Roberto Scano](https://www.robertoscano.info/)
 * [Salvatore Larosa (@salvatorelarosa)](https://twitter.com/salvatorelarosa)
 * [Sebastiano Bagnara (@sebastiano46)](https://twitter.com/sebastiano46)
+* [Silvia Gabrielli | LinkedIn](https://www.linkedin.com/in/silvia-gabrielli-23a47b/)
+* [Silvia Gilotta (@SilviaGilotta) | Twitter](https://twitter.com/SilviaGilotta)
+* [Simone Borsci (@SBorsci) | Twitter](https://twitter.com/SBorsci) - 
 * [Stefano Bussolon (@sweetdreamerit)](https://twitter.com/sweetdreamerit) - [Stefano Bussolon](http://www.bussolon.it/)
 * [Stefano Dominici (@titotopo)](https://twitter.com/titotopo) - [usertest/lab - experience and service design](http://www.usertestlab.it/)
 * [Stefano Pedrioli (@StefanoPedrioli)](https://twitter.com/StefanoPedrioli) - [Stefano Pedrioli](https://about.me/stenopedro)
