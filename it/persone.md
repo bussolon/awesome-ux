@@ -8,6 +8,7 @@ Persone Italiane che si occupano di UX, architettura dell'informazione, usabilit
 * [Alessandra Talamo | LinkedIn](https://www.linkedin.com/in/aletalamo/)
 * [Alessia Rullo (@ruassia)](https://twitter.com/ruassia)
 * [Alessio Ricco (@alessioricco)](https://twitter.com/alessioricco)
+* [Andrea Fiacchi | LinkedIn](https://www.linkedin.com/in/andrea-fiacchi-383a222/)
 * [Andrea Resmini (@resmini)](https://twitter.com/resmini) - [Andrea Resmini](http://andrearesmini.com/)
 * [Andrea Violante (@andrea_violante)](https://twitter.com/andrea_violante)
 * [Bianca Bronzino (@BBronzino)](https://twitter.com/BBronzino)
