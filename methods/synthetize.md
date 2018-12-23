@@ -1,7 +1,13 @@
 
-# Synthetize
+---
+title: "Synthetize"
+author: Stefano Bussolon
+description: "A list of deliverables that ux researchers and designers create to synthetize the results of the research phase"
+slug: synthetize
 
-This page lists the deliverables that ux researchers and designer create to synthetize the results of the research phase.
+---
+
+# Synthetize
 
 
 ## Personae
