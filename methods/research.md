@@ -54,6 +54,7 @@
 * [Interviews](https://hci.ilikecake.ie/req_interviews.htm)
 * Boyce, C., & Neale, P. (2006). Conducting in-depth interviews: A guide for designing and conducting in-depth interviews for evaluation input. [pdf](https://dmeforpeace.org/sites/default/files/Boyce_In%20Depth%20Interviews.pdf) 
 * [Interviewing Users](https://www.nngroup.com/articles/interviewing-users/)
+* [5 Steps to Create Good User Interview Questions By @Metacole — A Comprehensive Guide](https://medium.com/interactive-mind/5-steps-to-create-good-user-interview-questions-by-metacole-a-comprehensive-guide-8a591b0e2162)
 * [Getting Inside Your Users’ Heads: 9 Interviewing Tips :: UXmatters](https://www.uxmatters.com/mt/archives/2014/09/getting-inside-your-users-heads-9-interviewing-tips.php)
 
 
@@ -63,7 +64,7 @@
 * Clark, R. E., Feldon, D., van Merrienboer, J., Yates, K., & Early, S. (2007). Cognitive task analysis. In J. M.
 Spector, M. D. Merrill, J. J. G. van Merrie¨nboer, & M. P. Driscoll (Eds.), Handbook of research on educational
 communications and technology (3rd ed., pp. 577–593). Mahwah, NJ: Lawrence Erlbaum Associates. [pdf](http://www.learnlab.org/research/wiki/images/0/0b/Clarketal2007-CTAchapter.pdf)
-[Usabilitynet.org](http://www.usabilitynet.org/tools/taskanalysis.htm)
+* [Usabilitynet.org](http://www.usabilitynet.org/tools/taskanalysis.htm)
 
 
 ## Teachback
