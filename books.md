@@ -30,6 +30,8 @@
 * [Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences by Stephen P. Anderson | Goodreads](https://www.goodreads.com/book/show/9967766-seductive-interaction-design)
 * [Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics by Thomas Tullis | Goodreads](https://www.goodreads.com/book/show/3041729-measuring-the-user-experience)
 * [User Story Mapping: Discover the Whole Story, Build the Right Product by Jeff Patton | Goodreads](https://www.goodreads.com/book/show/22221112-user-story-mapping)
+* [Neuro Web Design: What Makes Them Click? by Susan M. Weinschenk | Goodreads](https://www.goodreads.com/book/show/4543746-neuro-web-design)
+
 
 ## Listopia
 
