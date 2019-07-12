@@ -56,6 +56,8 @@
 * [Interviewing Users](https://www.nngroup.com/articles/interviewing-users/)
 * [5 Steps to Create Good User Interview Questions By @Metacole — A Comprehensive Guide](https://medium.com/interactive-mind/5-steps-to-create-good-user-interview-questions-by-metacole-a-comprehensive-guide-8a591b0e2162)
 * [Getting Inside Your Users’ Heads: 9 Interviewing Tips :: UXmatters](https://www.uxmatters.com/mt/archives/2014/09/getting-inside-your-users-heads-9-interviewing-tips.php)
+* [How to Create a Concrete Buyer Persona (with Templates & Examples)](https://optinmonster.com/how-to-create-a-concrete-buyer-persona-with-templates-examples/) - with an interesting list of 188 questions you could do during an interview
+* [Asking the right questions during user research, interviews and testing](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67)
 
 
 ## (Cognitive) Task Analysis
