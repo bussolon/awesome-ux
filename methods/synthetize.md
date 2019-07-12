@@ -1,7 +1,10 @@
 
 ---
+
 title: "Synthetize"
+
 author: Stefano Bussolon
+
 description: "A list of deliverables that ux researchers and designers create to synthetize the results of the research phase"
 slug: synthetize
 
