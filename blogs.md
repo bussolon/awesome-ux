@@ -15,6 +15,6 @@ A list of blogs about ux, usability and design, in no particular order
 * [MeasuringU: All Blogs](https://measuringu.com/all-blogs/)
 * [UX Magazine | Defining and Informing the Complex Field of User Experience (UX)](http://uxmag.com/)
 * [UX Booth](https://www.uxbooth.com/)
-* [Boxes and Arrows -](http://boxesandarrows.com/)
-
-
+* [Boxes and Arrows](http://boxesandarrows.com/)
+* [Checklist Design - A collection of the best UX and UI practices](https://www.checklist.design)
+* [Laws of UX](https://lawsofux.com/)
