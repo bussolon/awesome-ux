@@ -10,6 +10,7 @@ A list of blogs about ux, usability and design, in no particular order
 * [UX Daily: the world's largest online UX Design resource | Interaction Design Foundation](https://www.interaction-design.org/literature/article/overview)
 * [Web Design Blog - Webdesigner Depot](https://www.webdesignerdepot.com/)
 * [A List Apart: For People Who Make Websites](https://alistapart.com/)
+* [Hubble Blog](https://www.hubble.team/blog)
 * [UX Planet](https://uxplanet.org/)
 * [UX Collective](https://uxdesign.cc/)
 * [MeasuringU: All Blogs](https://measuringu.com/all-blogs/)
